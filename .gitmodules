@@ -1,0 +1,6 @@
+[submodule "wasi-crypto"]
+	path = wasi-crypto
+	url = https://github.com/WebAssembly/wasi-crypto
+[submodule "wasmtime"]
+	path = wasmtime
+	url = https://github.com/bytecodealliance/wasmtime/
